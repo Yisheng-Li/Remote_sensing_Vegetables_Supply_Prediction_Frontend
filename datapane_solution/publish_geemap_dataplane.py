@@ -54,7 +54,7 @@ Map.setCenter(long, lat)
 # 3.Private: Your Community account comes with a limited number of private reports if you need to share data confidentially within your organization. 
 #   Private reports are shared through the Report Notifications mechanism. 
 
-# details: https://www.youtube.com/watch?v=NNrrLBIqroY
+# details: https://giswqs.medium.com/gee-tutorial-24-how-to-publish-interactive-earth-engine-maps-f854f7533b77
 Map.publish(name='gee folium map', headline='Terrain Visualization', visibility="PRIVATE")
 
 
